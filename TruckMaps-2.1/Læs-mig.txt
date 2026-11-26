@@ -1,0 +1,1 @@
+Udpak alle filer. Start BAT på Windows, eller upload HTML, manifest, ikoner og sw.js til HTTPS-hosting. Indsæt nøgler i appen, aldrig i offentlige filer. Google er separat kortvisning. Internet kræves. Testversion, ikke sikker navigation.
